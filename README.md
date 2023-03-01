@@ -1,2 +1,2 @@
 # swift_ar_proj_1
-To create a Swift AR App
+The goal of this shared repository is to create an exploratory AR app for iOS.
